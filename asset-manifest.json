@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madamO/static/css/main.67fe97b1.css",
+    "main.js": "/madamO/static/js/main.629ee136.js",
+    "static/js/787.62161e65.chunk.js": "/madamO/static/js/787.62161e65.chunk.js",
+    "index.html": "/madamO/index.html",
+    "main.67fe97b1.css.map": "/madamO/static/css/main.67fe97b1.css.map",
+    "main.629ee136.js.map": "/madamO/static/js/main.629ee136.js.map",
+    "787.62161e65.chunk.js.map": "/madamO/static/js/787.62161e65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67fe97b1.css",
+    "static/js/main.629ee136.js"
+  ]
+}
